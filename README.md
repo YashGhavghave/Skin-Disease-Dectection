@@ -28,6 +28,8 @@ To install all required dependencies, run one of the following commands in your 
 ```bash
 pip install -r requirements.txt
 
-or
- 
+
+#### Using Conda:
+
+```bash
 conda install --file requirements.txt
