@@ -1,4 +1,4 @@
-# Skin Cancer Detection
+# Skin Disease Detection
 
 This repository contains the code and resources for detecting skin cancer using deep learning techniques, specifically using Convolutional Neural Networks (CNNs). The project leverages a skin disease image dataset to classify skin cancer images. The model is built and trained using TensorFlow and Keras.
 
